@@ -1,0 +1,5 @@
+
+*.xml
+.settings/com.atollic.truestudio.debug.hardware_device.prefs
+.settings/org.eclipse.cdt.core.prefs
+*.prefs
